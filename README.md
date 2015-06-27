@@ -1,4 +1,4 @@
 flightTicketBooking
 ===================
 
-with static data, how to show the  flight search 
+with collection data, how to show the  flight search 
